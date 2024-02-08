@@ -45,11 +45,11 @@
       border-style: none;
   }
 
-  .post-upper{
+  .upper{
       display: flex;
       flex-direction: column;
   }
-  .post-lower{
+  .lower{
       display: flex;
       align-items: center;
       justify-content: space-between;
